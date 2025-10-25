@@ -12,15 +12,15 @@ def createDietScheduleFile():
 
         # Sample diet schedule
         data = {
-            "Time": ["07:30 AM", "10:00 AM", "01:00 PM", "03:30 PM", "06:30 PM", "08:30 PM"],
+            "Time": ["07:30 AM", "10:00 AM", "01:00 PM", "03:30 PM", "06:00 PM", "08:30 PM"],
             "Meal": ["Breakfast", "Mid-Morning Snack", "Lunch", "Afternoon Snack", "Pre-Workout Snack", "Dinner"],
             "Message": [
-                "Oats porridge with milk, banana, peanut butter 🍌🥛🥜 + 1 boiled egg 🥚",
-                "Handful of mixed nuts (almonds, walnuts) 🥜 and 1 glass fresh fruit juice 🍊",
-                "Brown rice, homemade chicken curry 🍗, spinach or broccoli 🥦, cucumber salad 🥒",
-                "Greek yogurt or curd with honey 🍯 and seasonal fruits 🍎🍓",
-                "Banana or apple + 1 scoop whey protein or peanut butter toast 🍌🍞",
-                "Grilled fish or paneer, quinoa or whole wheat chapati 🌾, sautéed veggies 🥦🥕, 1 glass milk 🥛"
+                "Good morning! This is Rahul, your personal assistant. It’s time for breakfast — enjoy a wholesome bowl of oats porridge with milk, banana, and peanut butter 🍌🥛🥜, along with one boiled egg 🥚 to start your day strong.",
+                "Hey there! Rahul here. It’s time for your mid-morning snack — have a handful of mixed nuts (almonds and walnuts) 🥜 and a glass of fresh fruit juice 🍊 to keep your energy up.",
+                "Hi! Rahul checking in. It’s lunchtime — enjoy some brown rice with homemade chicken curry 🍗, spinach or broccoli 🥦, and a refreshing cucumber salad 🥒 for a balanced meal.",
+                "Hello again! Rahul here. Time for your afternoon snack — treat yourself to some Greek yogurt or curd with a drizzle of honey 🍯 and a few seasonal fruits 🍎🍓.",
+                "Hey! Rahul reminding you — it’s time for your pre-workout snack. Have a banana or apple 🍌🍎 with one scoop of whey protein, or a slice of peanut butter toast 🍞 for a quick energy boost.",
+                "Good evening! Rahul here. Dinner time — enjoy grilled fish or paneer, quinoa or whole wheat chapati 🌾, sautéed veggies 🥦🥕, and finish with a glass of milk 🥛 for recovery and rest."
             ]
         }
 
